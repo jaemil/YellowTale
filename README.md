@@ -37,6 +37,10 @@ It’s based on projectiles, shot by the player and the enemies and they can be 
 - The player loses HP (HP = Health Points) every time he gets hit by a hostile projectile, once the player loses all his HP he dies and gets a menu to choose between 3 actions. You can either quit the game, return to the home menu, or try
 again. If you choose to try again, you respawn in the same map you died in previously, but you only have half the amount of your maximum HP.
 
+## MapEditor
+
+All Maps was built with the Map Editor
+
 ## Assets we used
 
 - [Manaspace](https://www.dafont.com/manaspace.font)
