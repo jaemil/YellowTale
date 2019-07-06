@@ -13,7 +13,7 @@
 - You can find the Dokumentation under "YellowTale Doku.pdf" (German).
 - We also made a PowerPoint ("YellowTale.pptx").
 
-## Project Description: Yellow Tale
+## Project Description
 
 - The main difference between a classical RPG and a Bullet-Hell-RPG is the combat system: 
 It’s based on projectiles, shot by the player and the enemies and they can be dodged, manipulated, or even reflected.
