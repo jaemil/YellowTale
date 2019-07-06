@@ -1,0 +1,1088 @@
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (6)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\PROJEKT SPIEL\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\1.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\2.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\3.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\Background.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\33.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\34.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\35.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\51.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\52.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\53.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\54.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\55.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\56.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\57.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\58.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\59.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\60.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\61.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\62.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\63.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\1.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\2.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\3.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\Background.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\collision.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\1.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\2.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\3.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\Background.txt
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\33.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\34.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\35.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\51.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\52.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\53.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\54.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\55.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\56.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\57.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\58.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\59.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\60.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\61.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\62.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\63.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\blur.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\pause.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\blur.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar colors.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar frame.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar colors.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar frame.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\pause.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\33.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\34.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\35.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\51.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\52.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\53.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\54.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\55.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\56.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\57.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\58.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\59.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\60.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\61.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\62.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\63.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\blur.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\pause.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (1) (1)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\knight head.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\test.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\transparent.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowiceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxicBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\ability locked.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\lock animation.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\test.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\1.sv
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\2.sv
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\3.sv
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowBig.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowiceBig.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierceBig.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxicBig.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball2.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball3.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball4.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\ability locked.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Archer.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Knight.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Wizard.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Archer.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Knight.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Wizard.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Archer.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Knight.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Wizard.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\knight head.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\lock animation.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\transparent.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\1.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\2.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\3.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\test.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\33.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\34.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\35.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\51.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\52.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\53.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\54.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\55.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\56.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\57.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\58.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\59.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\60.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\61.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\62.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\63.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowiceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxicBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\ability locked.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\blur.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\knight head.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\lock animation.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\pause.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\transparent.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (4)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\1.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\2.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\3.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\magicstaff.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\sword.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\bow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\coinflip.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\xpanimation.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionbig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionsmall.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\button.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\buttonhover.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\swordburning.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\frameMiddle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\fillMiddle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkBigIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkSmallRun.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.wma
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\bow.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\magicstaff.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\sword.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\swordburning.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherHit.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherIdle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherMove.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightHit.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightIdle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightMove.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardHit.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardIdle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardMove.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.wma
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\coinflip.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionbig.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionsmall.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\xpanimation.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\button.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\buttonhover.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\fillMiddle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\frameMiddle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkBigIdle.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkSmallRun.xnb
+C:\Users\Matthias\Desktop\Projekt\Projekt_Spiel_Emil\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\configs\config.cfg
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map_Wald_Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\1.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\2.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\3.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\Background.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map Wald Dungeon\collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\0.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\test.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Colission.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Collision.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Map-Prototyp.txt
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Maps\Test_Map\TileSet.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\1.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\2.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\savegames\3.sv
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.wma
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\music\testmusic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\bow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\magicstaff.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\sword.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Weapons\swordburning.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\fillMiddle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\frameMiddle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkBigIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Enemies\orkSmallRun.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\ArcherMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\KnightMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardHit.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardIdle.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Player\WizardMove.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\1.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\10.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\11.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\12.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\13.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\14.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\15.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\16.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\17.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\18.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\19.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\20.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\21.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\22.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\23.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\24.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\25.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\26.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\27.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\28.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\29.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\30.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\31.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\32.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\33.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\34.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\35.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\36.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\37.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\38.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\39.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\40.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\41.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\42.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\43.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\44.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\45.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\46.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\47.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\48.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\49.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\5.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\50.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\51.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\52.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\53.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\54.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\55.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\56.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\57.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\58.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\59.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\6.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\60.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\61.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\62.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\63.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\7.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\8.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Textures\9.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrow.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowice.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowiceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierce.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowpierceBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxic.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\arrowtoxicBig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball2.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball3.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Projectile\fireball4.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\coinflip.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionbig.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\healthpotionsmall.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\PickUpItems\xpanimation.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\ability locked.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability1Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability2Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Archer.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Knight.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\Ability3Wizard.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\blur.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\button.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\buttonhover.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\EXP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar colors.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\HP bar frame.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\knight head.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\lock animation.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\pause.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\HUD\transparent.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\configs\config.cfg
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\missing_texture.xnb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csprojAssemblyReference.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.csproj.CopyComplete
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.exe
+C:\Users\jaemil\Desktop\Projekt_Spiel (7)\Projekt_Spiel\Projekt_Spiel\obj\x86\Debug\Projekt_Spiel.pdb
+C:\Users\jaemil\Desktop\Projekt_Spiel\Projekt_Spiel\Projekt_Spiel\bin\Windows\x86\Debug\Content\configs\config.cfg

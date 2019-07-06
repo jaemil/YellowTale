@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jaemil/Desktop/Neuer Ordner/TeamGelb/YellowTale/Projekt_Spiel/Content/music/testmusic.mp3</SourceFile>
+  <SourceTime>2019-02-22T17:36:48+01:00</SourceTime>
+  <DestFile>C:/Users/jaemil/Desktop/Neuer Ordner/TeamGelb/YellowTale/Projekt_Spiel/Content/bin/Windows/music/testmusic.xnb</DestFile>
+  <DestTime>2019-07-06T16:34:01.2815641+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/jaemil/Desktop/Neuer Ordner/TeamGelb/YellowTale/Projekt_Spiel/Content/bin/Windows/music/testmusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

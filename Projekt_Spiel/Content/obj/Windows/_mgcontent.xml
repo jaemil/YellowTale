@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/missing_texture.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Player/archer.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Player/knight.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Player/wizard.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Maps/Test_Map/TileSet.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/1.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/10.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/11.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/12.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/13.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/14.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/15.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/16.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/17.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/18.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/19.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/2.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/20.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/21.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/22.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/23.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/24.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/25.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/26.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/27.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/28.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/29.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/3.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/30.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/31.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/32.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/36.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/37.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/38.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/39.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/4.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/40.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/41.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/42.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/43.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/44.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/45.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/46.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/47.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/48.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/49.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/5.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/50.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/6.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/7.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/8.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Textures/9.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Projectile/arrow.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Projectile/arrowice.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Projectile/arrowpierce.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Projectile/arrowtoxic.png</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Arial.spritefont</File>
+    <File>C:/Users/jaemil/Desktop/PROJEKT SPIEL/Projekt_Spiel/Projekt_Spiel/Projekt_Spiel/Content/Projectile/fireball.png</File>
+  </SourceFiles>
+</SourceFileCollection>
