@@ -1,15 +1,19 @@
 # YellowTale
+
 2D-BulletHell/RPG (Monogame C#)
 
-1. Install Monogame (http://www.monogame.net/2017/03/01/monogame-3-6/).
+## Installing
+
+1. Install [Monogame 3.6](http://www.monogame.net/2017/03/01/monogame-3-6/) 
 2. Install "manaspc.ttf" (Font).
 3. Open the Project ("YellowTale.sln").
 
-- You can find the Dokumentation under "YellowTale Doku.pdf" (German).
+## Details
 
+- You can find the Dokumentation under "YellowTale Doku.pdf" (German).
 - We also made a PowerPoint ("YellowTale.pptx").
 
-Project Description: Yellow Tale
+## Project Description: Yellow Tale
 
 - The main difference between a classical RPG and a Bullet-Hell-RPG is the combat system: 
 It’s based on projectiles, shot by the player and the enemies and they can be dodged, manipulated, or even reflected.
@@ -32,3 +36,19 @@ It’s based on projectiles, shot by the player and the enemies and they can be 
 
 - The player loses HP (HP = Health Points) every time he gets hit by a hostile projectile, once the player loses all his HP he dies and gets a menu to choose between 3 actions. You can either quit the game, return to the home menu, or try
 again. If you choose to try again, you respawn in the same map you died in previously, but you only have half the amount of your maximum HP.
+
+## Assets we used
+
+- [Manaspace](https://www.dafont.com/manaspace.font)
+
+- [DungeonTileset](https://0x72.itch.io/dungeontileset-ii)
+
+## Authors
+
+* **Emil Hopf** - [Website](http://www.jaemil.de/)
+* **Matthias Wohland** - [YouTube](https://www.youtube.com/user/mwohland23)
+* **Benjamin Simikic** - [YouTube](https://www.youtube.com/user/Jimmongaming)
+
+## License
+
+This project is licensed under the MIT License.
