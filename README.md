@@ -5,7 +5,7 @@
 ## Installing
 
 1. Install [Monogame 3.6](http://www.monogame.net/2017/03/01/monogame-3-6/) 
-2. Install "manaspc.ttf" (Font).
+2. Install [Manaspace (Font)](https://www.dafont.com/manaspace.font)
 3. Open the Project ("YellowTale.sln").
 
 ## Details
