@@ -1,6 +1,7 @@
 # YellowTale
 
 2D-BulletHell/RPG (Monogame C#)
+https://www.youtube.com/watch?v=MLzTEgNlubM
 
 ## Installing
 
