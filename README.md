@@ -10,7 +10,7 @@
 
 ## Details
 
-- You can find the Dokumentation under "YellowTale Doku.pdf" (German).
+- You can find the documentation under "YellowTale Doku.pdf" (German).
 - We also made a PowerPoint ("YellowTale.pptx").
 
 ## Project Description
