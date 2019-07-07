@@ -39,7 +39,7 @@ again. If you choose to try again, you respawn in the same map you died in previ
 
 ## MapEditor
 
-All Maps was built with the Map Editor
+All maps were built with the Map Editor
 
 ## Assets we used
 
